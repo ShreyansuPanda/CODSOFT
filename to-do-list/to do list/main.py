@@ -1,4 +1,4 @@
-#please downloaded all the images in the folder for perfect result
+#please download all the images in the folder for a perfect result
 from tkinter import *
 
 root = Tk()
